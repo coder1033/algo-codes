@@ -1,14 +1,14 @@
 # algo-codes
 This repository contains all my competitive programming and algorithmic codes.
 
-Covering programs from - 
--> CodeForces
--> CodeChef
--> SPOJ
--> LeetCode
--> Google Coding Competitions
--> InterviewBit
--> HackerRank
+Covering programs from -  
+- CodeForces <br />
+- CodeChef <br />
+- SPOJ <br />
+- LeetCode <br />
+- Google Coding Competitions <br /> 
+- InterviewBit <br />
+- HackerRank <br />
 
 Almost all the codes are in Python 3.
 
