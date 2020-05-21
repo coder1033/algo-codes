@@ -6,9 +6,9 @@ Covering programs from -
 - CodeChef <br />
 - SPOJ <br />
 - LeetCode <br />
-- Google Coding Competitions <br /> 
 - InterviewBit <br />
 - HackerRank <br />
+And from few other coding competitions.
 
 Almost all the codes are in Python 3.
 
