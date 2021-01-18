@@ -11,5 +11,3 @@ Covering programs from -
 And from few other coding competitions.
 
 Almost all the codes are in Python 3.
-
-Internet knows me as coder1033.
